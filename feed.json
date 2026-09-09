@@ -10,18 +10,6 @@
     },
     "items": [
         {
-            "id": "https://clinguas.com/artigos/test.html",
-            "url": "https://clinguas.com/artigos/test.html",
-            "title": "Test",
-            "author": {
-                "name": "Fidel Livino Pedro"
-            },
-            "tags": [
-            ],
-            "date_published": "2026-09-09T22:56:55+02:00",
-            "date_modified": "2026-09-09T22:56:55+02:00"
-        },
-        {
             "id": "https://clinguas.com/artigos/como-funciona-a-traducao-ajuramentada-em-mocambique.html",
             "url": "https://clinguas.com/artigos/como-funciona-a-traducao-ajuramentada-em-mocambique.html",
             "title": "Como Funciona a Tradução Ajuramentada em Moçambique",
