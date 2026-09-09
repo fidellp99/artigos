@@ -3,12 +3,24 @@
     <title>Artigos do Clube de Línguas</title>
     <link href="https://clinguas.com/artigos/feed.xml" rel="self" />
     <link href="https://clinguas.com/artigos" />
-    <updated>2026-09-09T22:50:11+02:00</updated>
+    <updated>2026-09-09T22:56:55+02:00</updated>
     <author>
         <name>Fidel Livino Pedro</name>
     </author>
     <id>https://clinguas.com/artigos</id>
 
+    <entry>
+        <title>Test</title>
+        <author>
+            <name>Fidel Livino Pedro</name>
+        </author>
+        <link href="https://clinguas.com/artigos/test.html"/>
+        <id>https://clinguas.com/artigos/test.html</id>
+
+        <updated>2026-09-09T22:56:55+02:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
     <entry>
         <title>Como Funciona a Tradução Ajuramentada em Moçambique</title>
         <author>
