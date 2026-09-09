@@ -10,8 +10,10 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout artigos
+      - name: Checkout Publii site
         uses: actions/checkout@v4
+        with:
+          path: source
 
       - name: Checkout main website
         uses: actions/checkout@v4
@@ -25,7 +27,7 @@ jobs:
           rm -rf main-site/artigos
           mkdir -p main-site/artigos
 
-          cp -R . main-site/artigos/
+          cp -R source/. main-site/artigos/
 
           rm -rf main-site/artigos/.git
           rm -rf main-site/artigos/.github
